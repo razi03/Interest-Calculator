@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 1400px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
